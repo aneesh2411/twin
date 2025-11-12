@@ -1,0 +1,21 @@
+{
+    "full_name": "Sesha Sai Aneeeswar Kalisapudi",
+    "name": "Aneesh Kalisapudi",
+    "current_role": "AI Engineer",
+    "location": "Dallas, TX",
+    "email": "a.kalisapudi@gmail.com",
+    "linkedin": "linkedin.com/in/aneesh24",
+    "specialties": [
+      "Python - FASTAPI",
+      "AI Frameworks",
+      "ETL/ELT pipelines"
+    ],
+    "years_experience": 4,
+    "education": [
+      {
+        "degree": "Master's",
+        "institution": "Arizona State University",
+        "year": "2023"
+      }
+    ]
+  }
